@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+# Environment files
+.env
+.env.*
+!.env.example
+# Build output
+target/
+# Logs
+*.log
+# OS / editor
+*.swp
+*.swo
